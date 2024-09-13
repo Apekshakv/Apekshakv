@@ -1,6 +1,6 @@
 - 👋 Hi,  I'm Apeksha, a passionate student .Currently pursuing engineering in (CSE and block chain) at Presidency University
   
-I'm a passionate developer with a strong foundation in web development (HTML, CSS, JavaScript) and programming languages (C, Java). I'm eager to contribute to projects that challenge me to learn and grow my skills.
+-I'm a passionate developer with a strong foundation in web development (HTML, CSS, JavaScript) and programming languages (C, Java). I'm eager to contribute to projects that challenge me to learn and grow my skills.
 
 ##  Skills
 
