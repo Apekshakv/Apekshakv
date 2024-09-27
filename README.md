@@ -11,6 +11,7 @@
 * **Programming Languages:**
     * **C:** A general-purpose, powerful language for system programming.
     * **Java:** An object-oriented, platform-independent language for various applications.
+    * **C++** An object-oriented, platform-independent language for various applications.
 <!---
 Apekshakv/I'm Apeksha, a passionate student .Currently pursuing engineering at Presidency Uiversity
 --->
