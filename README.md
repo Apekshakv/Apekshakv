@@ -11,7 +11,9 @@ I'm a passionate student currently pursuing engineering in Computer Science and 
 I'm a dedicated developer with a strong foundation in web development and programming. I love exploring new technologies and contributing to projects that challenge me to learn and grow my skills.
 
 💻 Skills
+
 Web Development:
+
 HTML: Structuring and organizing web content.
 CSS: Styling and designing visually appealing web pages.
 JavaScript: Adding interactivity and dynamic behavior to web applications.
