@@ -15,12 +15,19 @@ I'm a dedicated developer with a strong foundation in web development and progra
 Web Development:
 
 HTML: Structuring and organizing web content.
+
 CSS: Styling and designing visually appealing web pages.
+
 JavaScript: Adding interactivity and dynamic behavior to web applications.
+
 EJS: Server-side templating for dynamic rendering of web pages.
+
 Backend Development:
+
 Node.js: Building scalable and efficient server-side applications.
+
 Express.js: Creating RESTful APIs and middleware for web applications.
+
 Database Management:
 MongoDB: Designing and managing NoSQL databases for efficient data storage.
 * **Programming Languages:**
