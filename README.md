@@ -4,31 +4,24 @@ I'm a passionate student currently pursuing engineering in Computer Science and 
 I'm a dedicated developer with a strong foundation in web development and programming. I love exploring new technologies and contributing to projects that challenge me to learn and grow my skills.
 
 💻 Skills
-
 Web Development:
+   HTML ,
+   CSS ,
+   JavaScript ,
+   EJS
 
-HTML: Structuring and organizing web content.
+Backend Development: 
 
-CSS: Styling and designing visually appealing web pages.
-
-JavaScript: Adding interactivity and dynamic behavior to web applications.
-
-EJS: Server-side templating for dynamic rendering of web pages.
-
-Backend Development:
-
-Node.js: Building scalable and efficient server-side applications.
-
-Express.js: Creating RESTful APIs and middleware for web applications.
+   Node.js &
+   Express.js
 
 Database Management:
+   MongoDB
 
-MongoDB: Designing and managing NoSQL databases for efficient data storage.
+Programming Languages:
 
-* **Programming Languages:**
-    * **C:** A general-purpose, powerful language for system programming.
-    * **Java:** An object-oriented, platform-independent language for various applications.
-    * **C++** An object-oriented, platform-independent language for various applications.
+   C / C++ 
+   Python
 <!---
 Apekshakv/I'm Apeksha, a passionate student .Currently pursuing engineering at Presidency Uiversity
 --->
