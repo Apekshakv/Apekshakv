@@ -14,20 +14,19 @@ I'm a dedicated developer with a strong foundation in web development and progra
    JavaScript ,
    EJS
 
-- Backend Development: 
+- Backend Development : 
  
    Node.js ,
    Express.js
 
-- Database Management:
+- Database Management :
   
    MongoDB
 
-- Programming Languages:
+- Programming Languages :
 
-   C / C++
-  
-   Python
+   C / C++ ,
+     Python
 <!---
 Apekshakv/I'm Apeksha, a passionate student .Currently pursuing engineering at Presidency Uiversity
 --->
