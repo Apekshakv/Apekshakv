@@ -7,23 +7,23 @@ I'm a dedicated developer with a strong foundation in web development and progra
 
 - Web Development:
   
-  Front-End :
+Front-End :
   
    HTML ,
    CSS ,
    JavaScript ,
    EJS
 
-  Backend Development: 
-
-   Node.js &
+ Backend Development: 
+ 
+   Node.js ,
    Express.js
 
-  Database Management:
+ Database Management:
   
    MongoDB
 
-  Programming Languages:
+ Programming Languages:
 
    C / C++
   
