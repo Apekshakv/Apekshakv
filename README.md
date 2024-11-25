@@ -7,7 +7,7 @@ I'm a dedicated developer with a strong foundation in web development and progra
 
 - Web Development:
   
- -Front-End :
+ - Front-End :
   
    HTML ,
    CSS ,
@@ -23,7 +23,7 @@ I'm a dedicated developer with a strong foundation in web development and progra
   
    MongoDB
 
-  -Programming Languages:
+- Programming Languages:
 
    C / C++
   
