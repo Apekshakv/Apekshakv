@@ -25,7 +25,7 @@ I'm a dedicated developer with a strong foundation in web development and progra
 
 - Programming Languages :
 
-   C / C++ ,
+     C++ ,
      Python
 <!---
 Apekshakv/I'm Apeksha, a passionate student .Currently pursuing engineering at Presidency Uiversity
