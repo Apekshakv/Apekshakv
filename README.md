@@ -3,6 +3,9 @@ I'm a passionate student currently pursuing engineering in Computer Science and 
 
 I'm a dedicated developer with a strong foundation in web development and programming. I love exploring new technologies and contributing to projects that challenge me to learn and grow my skills.
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ApekshakvE&layout=compact&theme=radical)
+
+
 💻 Skills :
 
 - Web Development:
