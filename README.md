@@ -6,6 +6,9 @@ I'm a dedicated developer with a strong foundation in web development and progra
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshakv&layout=compact)
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apekshakv&show_icons=true&theme=radical)
+
 💻 Skills :
 
 - Web Development:
