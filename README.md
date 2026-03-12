@@ -1,33 +1,31 @@
-👋 Hi, I'm Apeksha
-I'm a passionate student currently pursuing engineering in Computer Science and Engineering (CSE) with a specialization in Blockchain at Presidency University.
+# 👋 Hi, I'm Apeksha
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshakv&layout=compact)                                                                                            
+I'm a passionate student currently pursuing **Computer Science and Engineering (CSE)** with a specialization in **Blockchain** at **Presidency University**.
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshakv&layout=compact)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Apekshakv&show_icons=true&theme=radical)
 
-💻 Skills :
+---
 
-- Web Development:
-  
- - Front-End :
-  
-   HTML ,
-   CSS ,
-   JavaScript ,
-   EJS
+## 💻 Skills
 
-- Backend Development : 
- 
-   Node.js ,
-   Express.js
+### 🌐 Web Development
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ejs,nodejs,express,mongodb" />
+</p>
 
-- Database Management :
-  
-   MongoDB
+### 💻 Programming Languages
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python" />
+</p>
 
-- Programming Languages :
+---
 
-     C++ ,
-     Python
-<!---
-Apekshakv/I'm Apeksha, a passionate student .Currently pursuing engineering at Presidency Uiversity
---->
+<!--
+Apekshakv/Apekshakv is a ✨ special ✨ repository because its README.md appears on your GitHub profile.
+-->
