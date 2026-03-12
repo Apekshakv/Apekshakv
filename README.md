@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Apeksha
 
-I'm a passionate student currently pursuing **Computer Science and Engineering (CSE)** with a specialization in **Blockchain** at **Presidency University**.
+A passionate student currently pursuing **Computer Science and Engineering (CSE)** with a specialization in **Blockchain** at **Presidency University**.
 
 ---
 
