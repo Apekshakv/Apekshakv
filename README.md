@@ -17,7 +17,7 @@ A passionate student currently pursuing **Computer Science and Engineering (CSE)
 
 ### 🌐 Web Development
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ejs,nodejs,express,mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,reactjs,ejs,nodejs,express,mongodb" />
 </p>
 
 ### 💻 Programming Languages
