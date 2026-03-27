@@ -3,7 +3,7 @@
 A passionate student currently pursuing **Computer Science and Engineering (CSE)** with a specialization in **Blockchain** at **Presidency University**.
 
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Apekshakv&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Apekshakv&show_icons=true&theme=tokyonight)
 
 ## 💻 Skills
 
