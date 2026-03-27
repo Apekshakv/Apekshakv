@@ -4,12 +4,6 @@ A passionate student currently pursuing **Computer Science and Engineering (CSE)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Apekshakv&layout=compact" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Apekshakv&show_icons=true&theme=radical" height="165"/>
-</p>
 
 ---
 
