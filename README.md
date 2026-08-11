@@ -2,10 +2,7 @@
 
 A passionate student currently pursuing **Computer Science and Engineering (CSE)** with a specialization in **Blockchain** at **Presidency University**.
 
-=
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Apekshakv&theme=tokyonight&hide_border=true"/>
-</p>
+
 
 ## 💻 Skills
 
